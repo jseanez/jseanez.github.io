@@ -1,0 +1,229 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+#top{
+	display: inline-block;
+	
+
+	
+	
+}
+#top2{
+	text-align: center;
+	position:relative; top: -0.60in;
+	
+
+	
+}
+#background{
+	background-color: black;
+	width: 100%;
+	height: 84px;
+	
+}
+a:link{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:active{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+a { 
+    display: block;
+    padding: 5px 20px;
+}
+#article1{
+	position: relative;
+	text-align: left;
+	color: white;
+	left: 5%;
+	margin-top: 5%;
+}
+#h1text{
+	position: absolute;
+	top: 40%;
+	left: 6%;
+	color: white;
+	font-weight: 700;
+	font-size: 32pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+	
+
+}
+#p1{
+	position: absolute;
+	top: 50%;
+	left: 6%;
+	color: white;
+	font-weight: 200;
+	font-size: 14pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+	
+}
+#span1{
+	position: absolute;
+	top: 59%;
+	left: 6%;
+	color: white;
+	font-weight: 200;
+	font-size: 10pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#article2{
+	position: relative;
+	text-align: left;
+	color: white;
+	left: 6%;
+	top: -180px;
+}
+#art2h{
+	position: absolute;
+	top: 31%;
+	left: 50%;
+	color: white;
+	font-weight: 300;
+	font-size: 12pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#art2sp{
+	position: absolute;
+	top: 37.5%;
+	left: 50%;
+	color: white;
+	font-weight: 300;
+	font-size: 10pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#article3{
+	position: relative;
+	text-align: left;
+	color: white;
+	left: 6.75%;
+	top: -180px;
+}
+#art3h{
+	position: absolute;
+	top: 31%;
+	left: 72.1%;
+	color: white;
+	font-weight: 300;
+	font-size: 12pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#art3sp{
+	position: absolute;
+	top: 37.5%;
+	left: 72.1%;
+	color: white;
+	font-weight: 300;
+	font-size: 10pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#article4{
+	position: relative;
+	text-align: left;
+	color: white;
+	left: 49.64%;
+	top: -174px;
+}
+#art4h{
+	position: absolute;
+	top: 53%;
+	left: 50%;
+	color: white;
+	font-weight: 300;
+	font-size: 12pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#art4sp{
+	position: absolute;
+	top: 59.5%;
+	left: 50%;
+	color: white;
+	font-weight: 300;
+	font-size: 10pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#article5{
+	position: relative;
+	text-align: left;
+	color: white;
+	left: 50.3%;
+	top: -174px;
+}
+#art5h{
+	position: absolute;
+	top: 53%;
+	left: 72%;
+	color: white;
+	font-weight: 300;
+	font-size: 12pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#art5sp{
+	position: absolute;
+	top: 59.5%;
+	left: 72%;
+	color: white;
+	font-weight: 300;
+	font-size: 10pt;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
